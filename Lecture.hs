@@ -21,7 +21,7 @@ getEven (a:t) | even a = a : getEven t
               | otherwise getEven t
 
 
-
+--- TEST123
 --- A function that summs all elements of a list
 -- isPalindrome [] = True
 -- isPalindrome [a] = True
